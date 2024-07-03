@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sann Linn Tun
 - 👀 I’m interested in AI and Data
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - sannlinntun21@gmail.com
 
